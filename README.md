@@ -11,5 +11,5 @@ Mobile App for Odoo Enterprise/Community Version
 1、修改扫码逻辑，默认跟官方App行为一致:点击扫码->打开摄像头->解析成功->返回  
 2、连续扫码需要Odoo服务端做少量代码适配
 
-#2021.10.20
+# 2021.10.20
 1、发布alpha版
