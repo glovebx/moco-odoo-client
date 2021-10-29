@@ -12,7 +12,7 @@ Mobile App for Odoo Enterprise/Community Version
 2、继续补足官方App现有功能   
 
 # 2021.10.29
-1、重构了登录流程 
+1、重构了登录流程   
 2、支持暗黑主题   
 
 # 2021.10.20
