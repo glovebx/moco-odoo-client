@@ -3,9 +3,10 @@ Mobile App for Odoo Enterprise/Community Version
 
 # 注意
 1、当前仅支持14企业版，社区版尚未正式适配  
-2、当前仅支持Android手机和平板，Mac及Windows尚未正式适配   
-3、如果需要连续扫码功能，需要服务端对应的Odoo模块做少量代码修改   
-4、开发中，有建议欢迎提issue
+2、14、15的社区版本，建议安装免费或收费手机主题体验  
+3、当前仅支持Android手机和平板，Mac及Windows尚未正式适配   
+4、如果需要连续扫码功能，需要服务端对应的Odoo模块做少量代码修改，这部分Python代码尚未开放   
+5、开发中，有建议欢迎提issue
 
 # TODO
 1、重构登录流程  
