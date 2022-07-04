@@ -12,6 +12,10 @@ Mobile App for Odoo Enterprise/Community Version
 1、~~重构登录流程~~  
 2、继续补足官方App现有功能   
 
+# 2022.07.04  
+1、升级部分依赖库版本  
+2、整合华为分析  
+
 # 2022.07.03  
 1、修改点击切换账号时会打开系统浏览器的bug  
 
