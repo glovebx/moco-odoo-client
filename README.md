@@ -12,6 +12,9 @@ Mobile App for Odoo Enterprise/Community Version
 1、~~重构登录流程~~  
 2、继续补足官方App现有功能   
 
+# 2022.07.26  
+1、修改PDF演示模式下无响应的bug  
+
 # 2022.07.04  
 1、升级部分依赖库版本  
 2、扫码SDK升级，性能优化  
