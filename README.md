@@ -8,6 +8,10 @@ Mobile App for Odoo Enterprise/Community Version
 4、如果需要连续扫码功能，需要服务端对应的Odoo模块做少量代码修改，这部分Python代码尚未开放   
 5、开发中，有建议欢迎提issue
 
+
+查看 🌟[Odoo Shop Client for iOS](https://github.com/glovebx/odoo-shop-iOS)
+
+
 # TODO
 1、~~重构登录流程~~  
 2、继续补足官方App现有功能   
