@@ -1,12 +1,17 @@
 # moco-odoo-client
 Mobile App for Odoo Enterprise/Community Version
 
+# 商业合作
+1、支持OEM合作，提供公司名、App名、App图标，即可提供属于你的安装包  
+2、报价请➕Q：1069010，请注明来意
+
 # 注意
-1、当前仅支持14企业版，社区版尚未正式适配  
-2、14、15的社区版本，建议安装免费或收费手机主题体验  
-3、当前仅支持Android手机和平板，Mac及Windows尚未正式适配   
-4、如果需要连续扫码功能，需要服务端对应的Odoo模块做少量代码修改，这部分Python代码尚未开放   
-5、开发中，有建议欢迎提issue
+1、moco-odoo-client-v17.apk支持17+的社区版和企业版，此为长期支持版本  
+2、moco-odoo-client-v1.apk仅支持14企业版，社区版不再适配、后续不再支持  
+3、社区版本，建议安装免费或收费的手机主题获得更好的体验  
+4、当前仅支持Android手机和平板，Mac及Windows尚未正式适配   
+~~5、如果需要连续扫码功能，需要服务端对应的Odoo模块做少量代码修改，这部分Python代码尚未开放~~   
+6、开发中，有建议欢迎提issue
 
 
 查看 🌟[Odoo Shop Client for iOS](https://github.com/glovebx/odoo-shop-iOS)
@@ -15,6 +20,9 @@ Mobile App for Odoo Enterprise/Community Version
 # TODO
 1、~~重构登录流程~~  
 2、继续补足官方App现有功能   
+
+# 2024.05.07  
+1、针对Odoo V17重构，支持社区版和企业版  
 
 # 2022.07.26  
 1、修改PDF演示模式下无响应的bug  
