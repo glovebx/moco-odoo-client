@@ -19,6 +19,7 @@ Mobile App for Odoo Enterprise/Community Version
 的 'web.assets_backend'中加入以下两个补丁文件：  
 'web/static/src/polyfills/object.js',  
 'web/static/src/polyfills/array.js',  
+参考PR：https://github.com/odoo/odoo/pull/160758  
 
 
 # iOS原型，已停止开发
