@@ -15,7 +15,7 @@ Mobile App for Odoo Enterprise/Community Version
 
 
 # 安卓设备相关报错解决
-部分旧的Android设备，运行时会报告有关 Object.hasOwn 的错误，需在 /odoo/addons/web/__manifest__.py 文件  
+部分旧的Android设备，运行时会报告有关 Object.hasOwn 的错误，需在 /odoo/addons/web/`__manifest__`.py 文件  
 的 'web.assets_backend'中加入以下两个补丁文件：  
 'web/static/src/polyfills/object.js',  
 'web/static/src/polyfills/array.js',  
