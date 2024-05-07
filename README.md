@@ -21,6 +21,7 @@ Mobile App for Odoo Enterprise/Community Version
 'web/static/src/polyfills/array.js',  
 
 
+# iOS原型，已停止开发
 查看 🌟[Odoo Shop Client for iOS](https://github.com/glovebx/odoo-shop-iOS)
 
 
