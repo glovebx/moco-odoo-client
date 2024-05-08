@@ -3,7 +3,7 @@ Mobile App for Odoo Enterprise/Community Version
 
 # 商业合作
 1、支持OEM合作，提供公司名、App名、App图标，即可提供属于你的安装包  
-2、报价请➕Q：1069010，请注明来意
+2、细节咨询➕Q：1069010，请注明来意
 
 # 注意
 1、moco-odoo-client-v17.apk支持17+的社区版和企业版，此为长期支持版本  
