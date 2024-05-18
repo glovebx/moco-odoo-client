@@ -30,6 +30,10 @@ Mobile App for Odoo Enterprise/Community Version
 1、~~重构登录流程~~  
 2、继续补足官方App现有功能   
 
+# 2024.05.18  
+1、整合HMS Push Kit，支持原生安卓消息推送
+* 需要在服务器端安装1个模块，即将开源  
+
 # 2024.05.07  
 1、针对Odoo V17重构，支持社区版和企业版  
 
