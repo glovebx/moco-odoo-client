@@ -6,12 +6,13 @@ Mobile App for Odoo Enterprise/Community Version
 2、细节咨询➕Q：1069010，请注明来意
 
 # 注意
-1、moco-odoo-client-v17.apk支持17+的社区版和企业版，此为长期支持版本  
+1、moco-odoo-client-v17.apk支持17+最新的社区版（2024/05/01之后的代码基）和企业版，此为长期支持版本  
 2、moco-odoo-client-v1.apk仅支持14企业版，社区版不再适配、后续不再支持  
 3、社区版本，建议安装免费或收费的手机主题获得更好的体验  
 4、当前仅支持Android手机和平板，Mac及Windows尚未正式适配   
 ~~5、如果需要连续扫码功能，需要服务端对应的Odoo模块做少量代码修改，这部分Python代码尚未开放~~   
-6、开发中，有建议欢迎提issue
+6、开发中，有建议欢迎提issue  
+7、目前有部分非华为手机登录时可能报错，请提issue
 
 
 # 安卓设备相关报错解决
@@ -20,6 +21,7 @@ Mobile App for Odoo Enterprise/Community Version
 'web/static/src/polyfills/object.js',  
 'web/static/src/polyfills/array.js',  
 参考PR：https://github.com/odoo/odoo/pull/160758  
+
 
 
 # iOS原型，已停止开发
