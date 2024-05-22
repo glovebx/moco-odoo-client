@@ -31,6 +31,8 @@ Mobile App for Odoo Enterprise/Community Version
 # TODO
 1、~~重构登录流程~~  
 2、继续补足官方App现有功能   
+3、整合纸质订单AI识别   
+4、整合PDF打印   
 
 # 2024.05.22  
 1、优化社区版扫码逻辑，仅产品字段关联扫码功能  
