@@ -89,7 +89,7 @@ class MailThread(models.AbstractModel):
     def _notify_by_push_prepare_payload(self, message, receiver_ids, msg_vals=None):
         """
         组合通用数据
-        """j4e
+        """
         author_id = [msg_vals.get('author_id')] if 'author_id' in msg_vals else message.author_id.ids
         author_name = self.env['res.partner'].browse(author_id).name
         record_name = msg_vals.get('record_name') if msg_vals else message.record_name
