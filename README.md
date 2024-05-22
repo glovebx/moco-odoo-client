@@ -15,12 +15,12 @@ Mobile App for Odoo Enterprise/Community Version
 7、目前有部分非华为手机登录时可能报错，请提issue
 
 
-# 安卓设备相关报错解决
-部分旧的Android设备，运行时会报告有关 Object.hasOwn 的错误，需在 /odoo/addons/web/`__manifest__`.py 文件  
-的 'web.assets_backend'中加入以下两个补丁文件：  
-'web/static/src/polyfills/object.js',  
-'web/static/src/polyfills/array.js',  
-参考PR：https://github.com/odoo/odoo/pull/160758  
+~~# 安卓设备相关报错解决~~
+~~部分旧的Android设备，运行时会报告有关 Object.hasOwn 的错误，需在 /odoo/addons/web/`__manifest__`.py 文件~~  
+~~的 'web.assets_backend'中加入以下两个补丁文件：~~  
+~~'web/static/src/polyfills/object.js',~~  
+~~'web/static/src/polyfills/array.js',~~  
+~~参考PR：https://github.com/odoo/odoo/pull/160758~~  
 
 
 
@@ -35,6 +35,10 @@ Mobile App for Odoo Enterprise/Community Version
 # 2024.05.18  
 1、整合HMS Push Kit，支持原生安卓消息推送
 * 需要在服务器端安装1个模块，即将开源  
+
+# 2024.05.22  
+1、优化社区版扫码逻辑，仅产品字段关联扫码功能  
+2、企业版支持仓库操作时使用摄像头扫码处理产品（Odoo官方尚未支持的功能）  
 
 # 2024.05.07  
 1、针对Odoo V17重构，支持社区版和企业版  
