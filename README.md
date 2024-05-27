@@ -34,6 +34,10 @@ Mobile App for Odoo Enterprise/Community Version
 3、整合纸质订单AI识别   
 4、整合PDF打印   
 
+# 2024.05.28  
+1、存储权限申请 bug fix  
+
+
 # 2024.05.22  
 1、优化社区版扫码逻辑，仅产品字段关联扫码功能  
 2、企业版支持仓库操作时使用摄像头扫码处理产品（Odoo官方尚未支持的功能）  
