@@ -81,7 +81,7 @@ class MailThread(models.AbstractModel):
                 f"{HMS_PUSH_GATEWAY}/v1/hms/message/push",
                 json=json_data,
                 # headers=headers,
-                timeout=5.0,
+                timeout=30.0,
             )
         except Exception as e:
             _logger.error('An error occurred while contacting the gateway server: %s', e)
