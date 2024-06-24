@@ -1,9 +1,24 @@
 # moco-odoo-client
 Mobile App for Odoo Enterprise/Community Version
 
+
 # 商业合作
 1、支持OEM合作，提供公司名、App名、App图标，即可提供属于你的安装包  
 2、细节咨询➕Q：1069010，请注明来意
+
+
+## 截屏
+
+| Login     | Account Manager     | 
+| :-------------: | :-------------: | 
+| ![Login](screenshots/login.jpg) | ![Account](screenshots/account.jpg) | 
+| Profile     | About     | 
+| ![Profile](screenshots/profile.jpg) | ![About](screenshots/about.jpg) | 
+| Sales     | AI Support     | 
+| ![Sales](screenshots/sales.jpg) | ![AI](screenshots/ai.jpg) | 
+| Dark theme     | Download / Upload  | 
+| ![Dark-theme](screenshots/dark-theme.jpg) | ![Download](screenshots/download.jpg) | 
+
 
 # 注意
 1、moco-odoo-client_x.x.x(xx)_g(h)ms.apk支持17+最新的社区版（2024/05/01之后的代码基）和企业版，此为长期支持版本，支持GMS、HMS两个安卓主流平台  
@@ -21,7 +36,6 @@ Mobile App for Odoo Enterprise/Community Version
 ~~'web/static/src/polyfills/object.js',~~  
 ~~'web/static/src/polyfills/array.js',~~  
 ~~参考PR：https://github.com/odoo/odoo/pull/160758~~  
-
 
 
 # iOS原型，已停止开发
