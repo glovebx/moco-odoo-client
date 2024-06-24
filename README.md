@@ -12,8 +12,8 @@ Mobile App for Odoo Enterprise/Community Version
 | Login     | Account Manager     | 
 | :-------------: | :-------------: | 
 | ![Login](screenshots/login.jpg) | ![Account](screenshots/account.jpg) | 
-| Profile     | About     | 
-| ![Profile](screenshots/profile.jpg) | ![About](screenshots/about.jpg) | 
+| Push Message     | About     | 
+| ![Push Message](screenshots/push-message.jpg) | ![About](screenshots/about.jpg) | 
 | Sales     | AI Support     | 
 | ![Sales](screenshots/sales.jpg) | ![AI](screenshots/ai.jpg) | 
 | Dark theme     | Download / Upload  | 
@@ -49,7 +49,8 @@ Mobile App for Odoo Enterprise/Community Version
 4、整合PDF打印   
 
 # 2024.06.24  
-1、新增学习模式，整合AI，沉浸式研究Odoo页面上的每一个元素  
+1、新增学习模式，整合AI，沉浸式研究Odoo页面上的每一个元素
+2、支持 Odoo v14 企业版（摄像头扫码）  
 
 # 2024.06.12  
 1、HMS 消息推送平台已部署，联系我获取推送接口地址  
