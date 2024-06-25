@@ -48,6 +48,10 @@ Mobile App for Odoo Enterprise/Community Version
 3、整合纸质订单AI识别   
 4、整合PDF打印   
 
+# 2024.06.25  
+1、登录 bug fix  
+2、消息推送 bug fix  
+
 # 2024.06.24  
 1、新增学习模式，整合AI，沉浸式研究Odoo页面上的每一个元素
 2、支持 Odoo v14 企业版（摄像头扫码）  
