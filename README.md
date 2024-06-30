@@ -110,3 +110,7 @@ Mobile App for Odoo Enterprise/Community Version
 
 # 2021.10.20
 1、发布alpha版
+
+
+# Odoo开发、Apk下载、使用问题交流群
+![QQ群](https://gitee.com/glovebx/moco-odoo-client/raw/master/assets/moco-odoo-client-qqgroup.jpg)
