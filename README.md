@@ -48,6 +48,10 @@ Mobile App for Odoo Enterprise/Community Version
 3、整合纸质订单AI识别   
 4、整合PDF打印   
 
+# 2024.06.30  
+1、整合免费的AI回答助手  
+2、bug fix  
+
 # 2024.06.25  
 1、登录 bug fix  
 2、消息推送 bug fix  
