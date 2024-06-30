@@ -15,7 +15,7 @@ Mobile App for Odoo Enterprise/Community Version
 | Push Message     | About     | 
 | ![Push Message](screenshots/push-message.jpg) | ![About](screenshots/about.jpg) | 
 | Sales     | AI Support     | 
-| ![Sales](screenshots/sales.jpg) | ![AI](screenshots/ai.jpg) | 
+| ![Sales](screenshots/sales.jpg) | ![AI](screenshots/ai2.jpg) | 
 | Dark theme     | Download / Upload  | 
 | ![Dark-theme](screenshots/dark-theme.jpg) | ![Download](screenshots/download.jpg) | 
 
