@@ -5,6 +5,8 @@ Mobile App for Odoo Enterprise/Community Version
 # 商业合作
 1、支持OEM合作，提供公司名、App名、App图标，即可提供属于你的安装包  
 2、细节咨询➕Q：1069010，请注明来意
+3、你也可以给我买杯咖啡表示支持
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://chinamastermind.gumroad.com/coffee)
 
 
 ## 截屏
