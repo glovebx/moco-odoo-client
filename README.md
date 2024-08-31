@@ -49,7 +49,11 @@ Mobile App for Odoo Enterprise/Community Version
 1、~~重构登录流程~~  
 2、继续补足官方App现有功能   
 3、整合纸质订单AI识别   
-4、整合PDF打印   
+~~4、整合PDF打印~~   
+
+# 2024.08.31  
+1、整合PDF打印  
+2、bug fix  
 
 # 2024.06.30  
 1、整合免费的AI回答助手  
