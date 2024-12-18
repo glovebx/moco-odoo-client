@@ -53,6 +53,9 @@ Mobile App for Odoo Enterprise/Community Version
 3、整合纸质订单AI识别   
 ~~4、整合PDF打印~~   
 
+# 2024.12.18  
+1、bug fix  
+
 # 2024.09.12  
 1、bug fix  
 
