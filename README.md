@@ -53,6 +53,9 @@ Mobile App for Odoo Enterprise/Community Version
 3、整合纸质订单AI识别   
 ~~4、整合PDF打印~~   
 
+# 2025.01.19  
+1、允许手机网络下下载腾讯X5浏览器内核，以便更好的支持ES6标准的javascript方法  
+
 # 2024.12.19  
 1、bug fix  
 
