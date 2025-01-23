@@ -25,7 +25,7 @@ Mobile App for Odoo Enterprise/Community Version
 
 
 # 注意
-1、moco-odoo-client_xxx_xx_g(h)ms.apk支持17+最新的社区版（2024/05/01之后的代码基）和企业版，此为长期支持版本，支持GMS、HMS两个安卓主流平台  
+1、moco-odoo-client_xxx_xx_g(h)ms.apk支持16+最新的社区版（2024/05/01之后的代码基）和企业版，此为长期支持版本，支持GMS、HMS两个安卓主流平台  
 2、特别支持v14企业版  
 3、v14e/moco-odoo-client-v1.apk仅支持14企业版，后续不再支持  
 4、社区版本，建议安装免费或收费的手机主题获得更好的体验  
@@ -52,6 +52,9 @@ Mobile App for Odoo Enterprise/Community Version
 2、继续补足官方App现有功能   
 3、整合纸质订单AI识别   
 ~~4、整合PDF打印~~   
+
+# 2025.01.23  
+1、支持Odoo v16，针对最新v18的代码进行了适配和bug fix  
 
 # 2025.01.19  
 1、允许手机网络下下载腾讯X5浏览器内核，以便更好的支持ES6标准的javascript方法  
