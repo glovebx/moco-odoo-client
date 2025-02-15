@@ -53,6 +53,10 @@ Mobile App for Odoo Enterprise/Community Version
 3、整合纸质订单AI识别   
 ~~4、整合PDF打印~~   
 
+# 2025.02.15  
+1、quick scan to add product  
+2、bug fix  
+
 # 2025.01.24  
 1、barcode scanner bug fix  
 
