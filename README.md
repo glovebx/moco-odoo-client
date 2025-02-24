@@ -32,7 +32,7 @@ Mobile App for Odoo Enterprise/Community Version
 3、v14e/moco-odoo-client-v1.apk仅支持14企业版，后续不再支持  
 4、社区版本，建议安装免费或收费的手机主题获得更好的体验  
 5、当前仅支持Android手机和平板，Mac及Windows尚未正式适配   
-6、支持连续扫码功能，服务器端零安装！开箱即用！
+6、支持连续扫码功能，服务器端零安装！开箱即用！   
 7、开发中，有建议欢迎提issue  
 8、目前有部分非华为手机登录时可能报错，请提issue
 
