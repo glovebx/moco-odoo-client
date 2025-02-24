@@ -14,6 +14,8 @@ Mobile App for Odoo Enterprise/Community Version
 | Login     | Account Manager     | 
 | :-------------: | :-------------: | 
 | ![Login](screenshots/login.jpg) | ![Account](screenshots/account.jpg) | 
+| Quick Scan Shortcut     | Floating Scanner     | 
+| ![Quick Scan Shortcut](screenshots/scan-button.jpg) | ![Floating Scanner](screenshots/scan-screen.png) | 
 | Push Message     | About     | 
 | ![Push Message](screenshots/push-message.jpg) | ![About](screenshots/about.jpg) | 
 | Sales     | AI Support     | 
@@ -30,7 +32,7 @@ Mobile App for Odoo Enterprise/Community Version
 3、v14e/moco-odoo-client-v1.apk仅支持14企业版，后续不再支持  
 4、社区版本，建议安装免费或收费的手机主题获得更好的体验  
 5、当前仅支持Android手机和平板，Mac及Windows尚未正式适配   
-~~6、如果需要连续扫码功能，需要服务端对应的Odoo模块做少量代码修改，这部分Python代码尚未开放~~   
+6、支持连续扫码功能，服务器端零安装！开箱即用！
 7、开发中，有建议欢迎提issue  
 8、目前有部分非华为手机登录时可能报错，请提issue
 
