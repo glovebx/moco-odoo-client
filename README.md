@@ -55,6 +55,10 @@ Mobile App for Odoo Enterprise/Community Version
 3、整合纸质订单AI识别   
 ~~4、整合PDF打印~~   
 
+# 2025.03.15  
+1、支持蓝牙打印机打印标签：无需额外驱动，智能分割标签  
+2、支持普通打印机：无需额外驱动，连接IP直接打印  
+
 # 2025.03.04  
 1、pos bug fix  
 
