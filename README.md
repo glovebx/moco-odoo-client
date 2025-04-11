@@ -22,8 +22,8 @@ Mobile App for Odoo Enterprise/Community Version
 | ![Sales](screenshots/sales.jpg) | ![AI](screenshots/ai2.jpg) | 
 | Dark theme     | Download / Upload  | 
 | ![Dark-theme](screenshots/dark-theme.jpg) | ![Download](screenshots/download.jpg) | 
-| PDF Print     | 
-| ![pdf-print](screenshots/print.png) |  
+| PDF Print     | Printer Setting  | 
+| ![pdf-print](screenshots/print.png) | ![Setting](screenshots/printer_setting.png) | 
 
 
 # 注意
