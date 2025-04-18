@@ -24,6 +24,8 @@ Mobile App for Odoo Enterprise/Community Version
 | ![Dark-theme](screenshots/dark-theme.jpg) | ![Download](screenshots/download.jpg) | 
 | PDF Print     | Printer Setting  | 
 | ![pdf-print](screenshots/print.png) | ![Setting](screenshots/printer_setting.png) | 
+| Pos Scanner     | Pos Receipt Printing  | 
+| ![pdf-print](screenshots/pos-scanner.png) | ![Setting](screenshots/pos-printing.png) | 
 
 
 # 注意
