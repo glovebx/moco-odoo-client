@@ -57,9 +57,16 @@ Mobile App for Odoo Enterprise/Community Version
 3、整合纸质订单AI识别   
 ~~4、整合PDF打印~~   
 
+# 2025.06.05  
+1、支持iDATA K3Pro 手持PDA扫码器  
+2、支持POS扫码下单  
+
 # 2025.03.15  
 1、支持蓝牙打印机打印标签：无需额外驱动，智能分割标签  
 2、支持普通打印机：无需额外驱动，连接IP直接打印  
+
+<details>
+<summary>点击展开/折叠</summary>	
 
 # 2025.03.04  
 1、pos bug fix  
@@ -162,7 +169,7 @@ Mobile App for Odoo Enterprise/Community Version
 
 # 2021.10.20
 1、发布alpha版
-
+</details>
 
 # Odoo开发、Apk下载、使用问题交流群
 ![QQ群](https://gitee.com/glovebx/moco-odoo-client/raw/master/assets/moco-odoo-client-qqgroup.jpg)
