@@ -35,16 +35,7 @@ Mobile App for Odoo Enterprise/Community Version
 4、社区版本，建议安装免费或收费的手机主题获得更好的体验  
 5、当前仅支持Android手机和平板，Mac及Windows尚未正式适配   
 6、支持连续扫码功能，服务器端零安装！开箱即用！   
-7、开发中，有建议欢迎提issue  
-8、目前有部分非华为手机登录时可能报错，请提issue
-
-
-~~# 安卓设备相关报错解决~~
-~~部分旧的Android设备，运行时会报告有关 Object.hasOwn 的错误，需在 /odoo/addons/web/`__manifest__`.py 文件~~  
-~~的 'web.assets_backend'中加入以下两个补丁文件：~~  
-~~'web/static/src/polyfills/object.js',~~  
-~~'web/static/src/polyfills/array.js',~~  
-~~参考PR：https://github.com/odoo/odoo/pull/160758~~  
+7、持续开发迭代，有任何问题、功能建议欢迎提issue  
 
 
 # iOS原型，已停止开发
@@ -56,6 +47,10 @@ Mobile App for Odoo Enterprise/Community Version
 2、继续补足官方App现有功能   
 3、整合纸质订单AI识别   
 ~~4、整合PDF打印~~   
+
+# 2025.09.04  
+1、老设备支持Let's Encrypt证书  
+2、bug修改、性能优化  
 
 # 2025.06.05  
 1、支持iDATA K3Pro 手持PDA扫码器  
