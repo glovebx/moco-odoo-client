@@ -1,5 +1,5 @@
 # 🌟[moco-odoo-client](https://odoo.metaerp.ai)
-Mobile App for Odoo Enterprise/Community Version
+Android App for Odoo Enterprise/Community Version
 
 
 # 商业合作
@@ -47,6 +47,9 @@ Mobile App for Odoo Enterprise/Community Version
 2、继续补足官方App现有功能   
 3、整合纸质订单AI识别   
 ~~4、整合PDF打印~~   
+
+# 2025.09.27  
+1、适配Odoo 19  
 
 # 2025.09.04  
 1、老设备支持Let's Encrypt证书  
