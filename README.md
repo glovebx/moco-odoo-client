@@ -35,7 +35,8 @@ Android App for Odoo Enterprise/Community Version
 4、社区版本，建议安装免费或收费的手机主题获得更好的体验  
 5、当前仅支持Android手机和平板，Mac及Windows尚未正式适配   
 6、支持连续扫码功能，服务器端零安装！开箱即用！   
-7、持续开发迭代，有任何问题、功能建议欢迎提issue  
+7、支持蓝牙热敏打印 / IPP协议常规打印，无需安装任何模块！   
+8、持续开发迭代，有任何问题、功能建议欢迎提issue  
 
 
 # iOS原型，已停止开发
@@ -43,10 +44,12 @@ Android App for Odoo Enterprise/Community Version
 
 
 # TODO
-1、~~重构登录流程~~  
-2、继续补足官方App现有功能   
-3、整合纸质订单AI识别   
-~~4、整合PDF打印~~   
+1、继续补足官方App现有功能   
+2、整合纸质订单AI识别   
+~~3、整合主流热敏打印机的PDF打印~~   
+
+# 2025.10.20  
+1、bug fix  
 
 # 2025.09.27  
 1、适配Odoo 19  
