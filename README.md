@@ -48,6 +48,10 @@ Android App for Odoo Enterprise/Community Version
 2、整合纸质订单AI识别   
 ~~3、整合主流热敏打印机的PDF打印~~   
 
+# 2025.10.29  
+1、原生PDF签名支持  
+2、原生图片编辑支持  
+
 # 2025.10.20  
 1、bug fix  
 
