@@ -26,6 +26,8 @@ Android App for Odoo Enterprise/Community Version
 | ![pdf-print](screenshots/print.png) | ![Setting](screenshots/printer_setting.png) | 
 | Pos Scanner     | Pos Receipt Printing  | 
 | ![pdf-print](screenshots/pos-scanner.png) | ![Setting](screenshots/pos-printing.png) | 
+| Annotate PDF     | Annotate Image  | 
+| ![annotate-pdf](screenshots/annotate-pdf.png) | ![annotate-image](screenshots/annotate-image.png) | 
 
 
 # 注意
