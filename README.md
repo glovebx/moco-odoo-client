@@ -1,5 +1,5 @@
 # 🌟[moco-odoo-client](https://odoo.metaerp.ai)
-Android App for Odoo Enterprise/Community Version
+Harmony(鸿蒙) / Android(安卓) App for Odoo Enterprise/Community Version
 Bluetooth Printer、PDA Scanner、RFID、PDF/Image Annotate supported
 
 # 商业合作
@@ -35,7 +35,7 @@ Bluetooth Printer、PDA Scanner、RFID、PDF/Image Annotate supported
 2、特别支持v14企业版  
 3、v14e/moco-odoo-client-v1.apk仅支持14企业版，后续不再支持  
 4、社区版本，建议安装免费或收费的手机主题获得更好的体验  
-5、当前仅支持Android手机和平板，Mac及Windows尚未正式适配   
+5、支持鸿蒙(Harmony) / 安卓(Android) 的手机和平板   
 6、支持连续扫码功能，服务器端零安装！开箱即用！   
 7、支持蓝牙热敏打印 / IPP协议常规打印，无需安装任何模块！   
 8、持续开发迭代，有任何问题、功能建议欢迎提issue  
