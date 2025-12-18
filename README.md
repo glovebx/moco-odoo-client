@@ -28,6 +28,8 @@ Bluetooth Printer、PDA Scanner、RFID、PDF/Image Annotate supported
 | ![pdf-print](screenshots/pos-scanner.png) | ![Setting](screenshots/pos-printing.png) | 
 | Annotate PDF     | Annotate Image  | 
 | ![annotate-pdf](screenshots/annotate-pdf.png) | ![annotate-image](screenshots/annotate-image.png) | 
+| Floating x2m buttons(light)     | Floating x2m buttons(dark)  | 
+| ![floating-x2m-buttons](screenshots/floating_x2m_light.jpg) | ![floating-x2m-buttons](screenshots/floating_x2m_dark.jpg) | 
 
 
 # 注意
@@ -49,6 +51,9 @@ Bluetooth Printer、PDA Scanner、RFID、PDF/Image Annotate supported
 1、继续补足官方App现有功能   
 2、整合纸质订单AI识别   
 ~~3、整合主流热敏打印机的PDF打印~~   
+
+# 2025.12.18  
+1、明细列表按钮布局优化，毛玻璃效果悬浮工具栏  
 
 # 2025.10.29  
 1、原生PDF签名支持  
