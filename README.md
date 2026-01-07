@@ -52,6 +52,9 @@ Bluetooth Printer、PDA Scanner、RFID、PDF/Image Annotate supported
 2、整合纸质订单AI识别   
 ~~3、整合主流热敏打印机的PDF打印~~   
 
+# 2026.01.07  
+1、支持顺丰、京东PDA扫描，支持霍尼韦尔Honeywell扫码枪  
+
 # 2025.12.24  
 1、支持优博讯PDA扫描  
 
