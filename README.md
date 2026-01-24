@@ -4,7 +4,7 @@ Bluetooth Printer、PDA Scanner、RFID、PDF/Image Annotate supported
 
 # 商业合作
 1、支持OEM合作，提供公司名、App名、App图标，即可提供属于你的安装包  
-2、细节咨询➕Q：1069010，请注明来意  
+2、细节咨询➕Q：1069010，请务必注明来意  
 3、非客户1对1咨询费用：__1200元/小时__，成交后可抵扣  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://metaerp.gumroad.com/coffee)
 
@@ -51,6 +51,11 @@ Bluetooth Printer、PDA Scanner、RFID、PDF/Image Annotate supported
 1、继续补足官方App现有功能   
 2、整合纸质订单AI识别   
 ~~3、整合主流热敏打印机的PDF打印~~   
+
+# 2026.01.24  
+1、支持昇界热敏打印机、支持条形码、二维码打印高清化  
+2、支持Odoo最新发布的19.2版本  
+3、bug fix  
 
 # 2026.01.07  
 1、支持顺丰、京东PDA扫描，支持霍尼韦尔Honeywell扫码枪  
