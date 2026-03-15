@@ -8,6 +8,7 @@ Bluetooth Printer、PDA Scanner、RFID、PDF/Image Annotate supported
 3、非客户1对1咨询费用：__1200元/小时__，成交后可抵扣  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://metaerp.gumroad.com/coffee)
 
+[English](./README.en.md) | [日本語](./README.ja.md)
 
 ## 截屏
 
