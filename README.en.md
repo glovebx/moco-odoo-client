@@ -35,13 +35,11 @@ Bluetooth Printer, PDA Scanner, RFID, PDF/Image Annotate supported
 
 # Note
 1. moco-odoo-client_xxx_xx_g(h)ms.apk supports the latest community (codebase after 2024/05/01) and enterprise versions of 16+. This is a long-term support version, supporting both GMS and HMS, the two major Android platforms.
-2. Special support for v14 Enterprise Edition.
-3. v14e/moco-odoo-client-v1.apk only supports v14 Enterprise Edition and will no longer be supported.
-4. For the community version, it is recommended to install a free or paid mobile theme for a better experience.
-5. Supports HarmonyOS / Android phones and tablets.
-6. Supports continuous scanning, zero installation on the server side! Out of the box!
-7. Supports Bluetooth thermal printing / IPP protocol conventional printing, no need to install any modules!
-8. Continuously developed and iterated. Any questions or feature suggestions are welcome in the issues.
+2. For the community version, it is recommended to install a free or paid mobile theme for a better experience.
+3. Supports HarmonyOS / Android phones and tablets.
+4. Supports continuous scanning, zero installation on the server side! Out of the box!
+5. Supports Bluetooth thermal printing / IPP protocol conventional printing, no need to install any modules!
+6. Continuously developed and iterated. Any questions or feature suggestions are welcome in the issues.
 
 
 

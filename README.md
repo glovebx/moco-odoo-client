@@ -35,8 +35,8 @@ Bluetooth Printer、PDA Scanner、RFID、PDF/Image Annotate supported
 
 # 注意
 1、moco-odoo-client_xxx_xx_g(h)ms.apk支持16+最新的社区版（2024/05/01之后的代码基）和企业版，此为长期支持版本，支持GMS、HMS两个安卓主流平台  
-2、特别支持v14企业版  
-3、v14e/moco-odoo-client-v1.apk仅支持14企业版，后续不再支持  
+~~2、特别支持v14企业版~~  
+~~3、v14e/moco-odoo-client-v1.apk仅支持14企业版，后续不再支持~~  
 4、社区版本，建议安装免费或收费的手机主题获得更好的体验  
 5、支持鸿蒙(Harmony) / 安卓(Android) 的手机和平板   
 6、支持连续扫码功能，服务器端零安装！开箱即用！   
