@@ -48,6 +48,11 @@ Bluetooth Printer, PDA Scanner, RFID, PDF/Image Annotate supported
 2. Integrate AI recognition for paper orders.
 ~~3. Integrate PDF printing for mainstream thermal printers.~~
 
+# 2026.04.20 
+1、Supports Gainscha thermal printers, supports high-definition printing of barcodes and QR codes.  
+2、Supports volume button control of the scan window, and scanning input on any interface.  
+3、bug fix  
+
 # 2026.01.24
 1. Support for SUNMI thermal printers, support for high-definition printing of barcodes and QR codes.
 2. Support for the latest Odoo version 19.2.
