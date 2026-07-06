@@ -53,6 +53,10 @@ Bluetooth Printer、PDA Scanner、RFID、PDF/Image Annotate supported
 2、整合纸质订单AI识别   
 ~~3、整合主流热敏打印机的PDF打印~~   
 
+# 2026.07.06 
+1、性能提升  
+3、bug fix  
+
 # 2026.04.20 
 1、支持佳博热敏打印机、支持条形码、二维码打印高清化  
 2、支持音量键控制扫码窗口，支持任意界面扫码输入  
