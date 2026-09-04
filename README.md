@@ -53,9 +53,14 @@ Bluetooth Printer、PDA Scanner、RFID、PDF/Image Annotate supported
 2、整合纸质订单AI识别   
 ~~3、整合主流热敏打印机的PDF打印~~   
 
+# 2026.07.26 
+1、性能提升  
+2、bug fix  
+3、注意：卸载旧版本安装，或者安装后先清理缓存再进入Odoo
+
 # 2026.07.06 
 1、性能提升  
-3、bug fix  
+2、bug fix  
 
 # 2026.04.20 
 1、支持佳博热敏打印机、支持条形码、二维码打印高清化  
