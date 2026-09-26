@@ -48,6 +48,16 @@ Bluetooth Printer, PDA Scanner, RFID, PDF/Image Annotate supported
 2. Integrate AI recognition for paper orders.
 ~~3. Integrate PDF printing for mainstream thermal printers.~~
 
+# 2026.09.26 
+1、Faster QR code scanning, supports multi-code selection on the same screen, and supports auto-focus  
+2、The floating window scan window has been adjusted to landscape mode  
+3、bug fix
+
+# 2026.07.26 
+1、Performance improvement  
+2、bug fix  
+3、Note: Uninstall the old version before installing, or clear the cache after installation before entering Odoo
+
 # 2026.04.20 
 1、Supports Gainscha thermal printers, supports high-definition printing of barcodes and QR codes.  
 2、Supports volume button control of the scan window, and scanning input on any interface.  

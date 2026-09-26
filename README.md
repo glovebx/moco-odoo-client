@@ -53,6 +53,11 @@ Bluetooth Printer、PDA Scanner、RFID、PDF/Image Annotate supported
 2、整合纸质订单AI识别   
 ~~3、整合主流热敏打印机的PDF打印~~   
 
+# 2026.09.26 
+1、扫码功能速度更快，支持同屏多码选择，支持自动变焦  
+2、悬浮窗扫码窗口调整为横屏模式  
+3、bug fix
+
 # 2026.07.26 
 1、性能提升  
 2、bug fix  
