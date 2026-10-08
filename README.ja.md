@@ -2,6 +2,9 @@
 Odoo Enterprise/Communityバージョン用のHarmonyOS / Androidアプリ
 Bluetoothプリンター、PDAスキャナー、RFID、PDF/画像注釈をサポート
 
+# 新しいApp·奥道 WMS
+Odoo WMS Client for Android 🌟[Odoo WMS Client for Android](https://wms.metaerp.ai/)
+
 # ビジネス協力
 1. OEM協力をサポートします。会社名、アプリ名、アプリアイコンを提供して、独自のインストールパッケージを入手してください。
 2. 詳細については、EMAIL：1069010@qq.com までお問い合わせください。目的を必ず明記してください。

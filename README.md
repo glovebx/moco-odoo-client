@@ -2,6 +2,10 @@
 Harmony(鸿蒙) / Android(安卓) App for Odoo Enterprise/Community Version
 Bluetooth Printer、PDA Scanner、RFID、PDF/Image Annotate supported
 
+# 新产品·奥道 WMS
+专业的Odoo WMS客户端 for Android 🌟[Odoo WMS Client for Android](https://wms.metaerp.ai/)
+
+
 # 商业合作
 1、支持OEM合作，提供公司名、App名、App图标，即可提供属于你的安装包  
 2、细节咨询➕Q：1069010，请务必注明来意  
