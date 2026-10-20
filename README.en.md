@@ -3,7 +3,7 @@ HarmonyOS / Android App for Odoo Enterprise/Community Version
 Bluetooth Printer, PDA Scanner, RFID, PDF/Image Annotate supported
 
 # 新产品·奥道 WMS
-WMS for Odoo 🌟[WMS for Odoo](https://wms.metaerp.ai/)
+Odoo WMS Client for Android 🌟[Odoo WMS Client for Android](https://wms.metaerp.ai/)
 
 # Business Cooperation
 1. OEM cooperation supported. Provide your company name, App name, and App icon to get your own installation package.
@@ -50,6 +50,10 @@ WMS for Odoo 🌟[WMS for Odoo](https://wms.metaerp.ai/)
 1. Continue to supplement the existing functions of the official App.
 2. Integrate AI recognition for paper orders.
 ~~3. Integrate PDF printing for mainstream thermal printers.~~
+
+# 2026.10.20 
+1、Odoo v20 support  
+2、bug fix
 
 # 2026.09.26 
 1、Faster QR code scanning, supports multi-code selection on the same screen, and supports auto-focus  

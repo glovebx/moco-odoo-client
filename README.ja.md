@@ -51,6 +51,10 @@ Odoo WMS Client for Android 🌟[Odoo WMS Client for Android](https://wms.metaer
 2. 紙の注文書のAI認識を統合します。
 ~~3. 主流のサーマルプリンターのPDF印刷を統合します。~~
 
+# 2026.10.20 
+1、Odoo v20 適応  
+2、bug fix
+
 # 2026.09.26 
 1、QRコードのスキャン速度が向上し、同一画面での複数コード選択に対応し、オートフォーカスにも対応  
 2、フローティングウィンドウのスキャン画面を横向きモードに調整  
