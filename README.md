@@ -35,6 +35,8 @@ Bluetooth Printer、PDA Scanner、RFID、PDF/Image Annotate supported
 | ![annotate-pdf](screenshots/annotate-pdf.png) | ![annotate-image](screenshots/annotate-image.png) | 
 | Floating x2m buttons(light)     | Floating x2m buttons(dark)  | 
 | ![floating-x2m-buttons](screenshots/floating_x2m_light.jpg) | ![floating-x2m-buttons](screenshots/floating_x2m_dark.jpg) | 
+| Multi code recognize     | Auto printer discovering  | 
+| ![multi-scan-screen](screenshots/multi-scan-screen.jpg) | ![discover-printer](screenshots/discover-printer.jpg) | 
 
 
 # 注意

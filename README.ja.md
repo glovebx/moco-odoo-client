@@ -34,6 +34,8 @@ Odoo WMS Client for Android 🌟[Odoo WMS Client for Android](https://wms.metaer
 | ![annotate-pdf](screenshots/annotate-pdf.png) | ![annotate-image](screenshots/annotate-image.png) |
 | フローティングx2mボタン（ライト） | フローティングx2mボタン（ダーク） |
 | ![floating-x2m-buttons](screenshots/floating_x2m_light.jpg) | ![floating-x2m-buttons](screenshots/floating_x2m_dark.jpg) |
+| 複数コード識別     | プリンター自動発見  | 
+| ![multi-scan-screen](screenshots/multi-scan-screen.jpg) | ![discover-printer](screenshots/discover-printer.jpg) | 
 
 
 # 注意
